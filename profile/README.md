@@ -9,9 +9,9 @@
 # Roadmap
 - [x] Chặn sạch các dịch vụ của Zalo
 - [x] Chặn sạch các dịch vụ của ZaloPay
-- [ ] Tạo Private DNS giúp việc thiết lập dễ dàng hơn
 - [ ] Chặn sạch các dịch vụ của Laban Key
 - [ ] Chặn sạch các dịch vụ của Kiki
+- [ ] Tạo Private DNS giúp việc thiết lập dễ dàng hơn
 - [ ] Xây dựng ứng dụng giúp chặn dễ hơn
 - [ ] Đưa ra giải pháp thay thế mạnh hơn
 
