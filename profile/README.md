@@ -17,9 +17,9 @@
 - [ ] Đưa ra giải pháp thay thế mạnh hơn
 
 # Liên kết nhanh
-| Chặn Zalo      | Chặn ZaloPay |
-| ----------- | ----------- |
-| [Đây](https://github.com/zalofucker/fuck-you-zalo)      | [Đây](https://github.com/zalofucker/fuck-you-zalopay)    |
+| Chặn Zalo      | Chặn ZaloPay | Chặn Zing Mp3      | Chặn Laban Key |
+| ----------- | ----------- | ----------- | ----------- |
+| [Đây](https://github.com/zalofucker/fuck-you-zalo)      | [Đây](https://github.com/zalofucker/fuck-you-zalopay)    | [Đây](https://github.com/zalofucker/fuck-you-zingmp3)    | [Đây](https://github.com/zalofucker/fuck-you-labankey)    |
 <!--
 
 **Here are some ideas to get you started:**
