@@ -15,6 +15,7 @@
 - [ ] Tạo Private DNS giúp việc thiết lập dễ dàng hơn
 - [ ] Xây dựng ứng dụng giúp chặn dễ hơn
 - [ ] Đưa ra giải pháp thay thế mạnh hơn
+- [ ] Add Englist 😵‍💫:
 
 # Liên kết nhanh
 | Chặn Zalo      | Chặn ZaloPay | Chặn Zing Mp3      | Chặn Laban Key |
