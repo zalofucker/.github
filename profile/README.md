@@ -13,6 +13,7 @@
 - [x] Chặn sạch các dịch vụ của Zing MP3
 - [ ] Chặn sạch các dịch vụ của Kiki
 - [ ] Tạo Private DNS giúp việc thiết lập dễ dàng hơn
+- [ ] Mirror ra mấy chỗ git khác (gitlab maybe?)
 - [ ] Xây dựng ứng dụng giúp chặn dễ hơn
 - [ ] Đưa ra giải pháp thay thế mạnh hơn
 - [ ] Add English 😵‍💫
