@@ -12,9 +12,11 @@
 - [x] Chặn sạch các dịch vụ của Laban Key
 - [x] Chặn sạch các dịch vụ của Zing MP3
 - [ ] Chặn sạch các dịch vụ của Kiki
+- [ ] Ra mắt công cụ loại bỏ trên thiết bị của bạn
+  - [x] Ra mắt toolbox chặn
+  - [ ] Ra mắt toolbox xóa
 - [x] Tạo Private DNS giúp việc thiết lập dễ dàng hơn
 - [ ] Mirror ra mấy chỗ git khác (gitlab maybe?)
-- [ ] Xây dựng ứng dụng giúp chặn dễ hơn
 - [ ] Đưa ra giải pháp thay thế mạnh hơn
 - [ ] Add English 😵‍💫
 
@@ -22,13 +24,7 @@
 | Chặn Zalo      | Chặn ZaloPay | Chặn Zing Mp3      | Chặn Laban Key |
 | ----------- | ----------- | ----------- | ----------- |
 | [Đây](https://github.com/zalofucker/fuck-you-zalo)      | [Đây](https://github.com/zalofucker/fuck-you-zalopay)    | [Đây](https://github.com/zalofucker/fuck-you-zingmp3)    | [Đây](https://github.com/zalofucker/fuck-you-labankey)    |
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+|DNS Cloudflare|DNS Nextdns|
+|--------------|-----------|
+| [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-cloudflare) | [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-nextdns) |
