@@ -16,7 +16,7 @@
   - [x] Ra mắt toolbox chặn
   - [ ] Ra mắt toolbox xóa
 - [x] Tạo Private DNS giúp việc thiết lập dễ dàng hơn
-- [ ] Mirror ra mấy chỗ git khác (gitlab maybe?)
+- [ ] Mirror ra mấy chỗ git khác (gitlab/gitea/forgejo maybe?)
 - [ ] Đưa ra giải pháp thay thế mạnh hơn
 - [ ] Add English 😵‍💫
 
