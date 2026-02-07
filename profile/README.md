@@ -11,7 +11,7 @@
 - [x] Chặn sạch các dịch vụ của ZaloPay
 - [x] Chặn sạch các dịch vụ của Laban Key
 - [x] Chặn sạch các dịch vụ của Zing MP3
-- [ ] Chặn sạch các dịch vụ của Kiki
+- [x] Chặn sạch các dịch vụ của Kiki
 - [ ] Ra mắt công cụ loại bỏ trên thiết bị của bạn
   - [x] Ra mắt toolbox chặn
   - [ ] Ra mắt toolbox xóa
@@ -21,10 +21,10 @@
 - [ ] Add English 😵‍💫
 
 # Liên kết nhanh
-| Chặn Zalo      | Chặn ZaloPay | Chặn Zing Mp3      | Chặn Laban Key |
-| ----------- | ----------- | ----------- | ----------- |
-| [Đây](https://github.com/zalofucker/fuck-you-zalo)      | [Đây](https://github.com/zalofucker/fuck-you-zalopay)    | [Đây](https://github.com/zalofucker/fuck-you-zingmp3)    | [Đây](https://github.com/zalofucker/fuck-you-labankey)    |
-
+| Chặn Zalo      | Chặn ZaloPay | Chặn Zing Mp3      | Chặn Laban Key | Chặn Kiki |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Đây](https://github.com/zalofucker/fuck-you-zalo)      | [Đây](https://github.com/zalofucker/fuck-you-zalopay)    | [Đây](https://github.com/zalofucker/fuck-you-zingmp3)    | [Đây](https://github.com/zalofucker/fuck-you-labankey)    | [Đây](https://github.com/zalofucker/fuck-you-kiki)
+ 
 |DNS Cloudflare|DNS Nextdns|
 |--------------|-----------|
 | [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-cloudflare) | [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-nextdns) |
