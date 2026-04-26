@@ -16,7 +16,7 @@
   - [x] Ra mắt toolbox chặn
   - [ ] Ra mắt toolbox xóa
 - [x] Tạo Private DNS giúp việc thiết lập dễ dàng hơn
-- [ ] Mirror ra mấy chỗ git khác (gitlab/gitea/forgejo maybe?)
+- [x] Mirror ra mấy chỗ git khác (gitlab/gitea/forgejo maybe?)
 - [ ] Đưa ra giải pháp thay thế mạnh hơn
 - [ ] Add English 😵‍💫
 
@@ -28,3 +28,6 @@
 |DNS Cloudflare|DNS Nextdns|
 |--------------|-----------|
 | [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-cloudflare) | [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-nextdns) |
+
+# Alternative
++ Gitea by adminforge : [Đây](https://git.adminforge.de/zalofucker)
