@@ -30,5 +30,4 @@
 | [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-cloudflare) | [Đây](https://github.com/zalofucker/Zalofucker-Dns?tab=readme-ov-file#%EF%B8%8F-nextdns) |
 
 # Alternative
-+ Gitea by adminforge : [Đây](https://git.adminforge.de/zalofucker)
-+ Forgejo by Codeflow : [Đây](https://codeflow.com/zalofucker)
++ Forgejo by Codefloe : [Đây](https://codeflow.com/zalofucker)
